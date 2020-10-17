@@ -1,0 +1,20 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {
+        "no-console": false
+    },
+    "rules": {
+        "trailing-comma": [
+            false
+        ],
+        "no-console": false
+    },
+    "rulesDirectory": [],
+    "plugins": [
+        "mocha"
+    ],
+    "project": "./tsconfig.json"
+}

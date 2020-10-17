@@ -1,0 +1,3 @@
+recursive: true
+spec: './src/prime-numbers.service.test.ts'
+require: ['ts-node/register']
